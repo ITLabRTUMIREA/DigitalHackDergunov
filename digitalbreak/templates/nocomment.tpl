@@ -1,0 +1,1 @@
+<div class="uk-placeholder uk-text-center">Для этого вопроса не оставлено ни одного комментария</div>
